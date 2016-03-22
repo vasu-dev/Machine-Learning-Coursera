@@ -1,2 +1,2 @@
 # Machine-Learning
-Coursera Course Exercises
+Coursera Machine Learning Course Exercises
